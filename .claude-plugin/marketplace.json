@@ -1,0 +1,6 @@
+{
+  "name": "claude-usage-pace",
+  "description": "Claude plan usage bars with a pace marker",
+  "owner": { "name": "Jazz23" },
+  "plugins": [{ "name": "usage-pace", "source": "./", "description": "Plan usage bars with a marker for how far through each window you are" }]
+}

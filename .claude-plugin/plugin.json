@@ -1,0 +1,9 @@
+{
+  "name": "usage-pace",
+  "version": "0.1.0",
+  "description": "Plan usage bars with a marker for how far through each window you are",
+  "author": { "name": "Jazz23" },
+  "license": "MIT",
+  "repository": "https://github.com/Jazz23/claude-usage-pace",
+  "types": "./types/index.d.ts"
+}
